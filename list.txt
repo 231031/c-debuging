@@ -1,0 +1,12 @@
+Title : Harry Potter
+Author Name : JK Rolling
+Publish Year : 1996
+Status : available
+Title : Harry P
+Author Name : JK Rg
+Publish Year : 19
+Status : available
+Title : y Potter
+Author Name : JK Rolling
+Publish Year : 1996
+Status : borrowed
